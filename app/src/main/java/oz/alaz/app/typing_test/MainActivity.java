@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     // todo: Make support for glide typing
     // todo: Make UI more asthetic and simple
     // todo: Show a timer when the user starts typing
+    // todo: Add a lot of features and screens.
 
     @SuppressLint("ClickableViewAccessibility")
     @Override
